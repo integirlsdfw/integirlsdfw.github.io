@@ -51,7 +51,7 @@ p{
 
 /*homepage css:*/
 .hero {
-    background-image: url('https://img.freepik.com/free-vector/sunset-city-background_1092-42.jpg'); /* replace with your chapter's background image */
+    background-image: url('/dallas.jpg'); /* replace with your chapter's background image */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* allows the background image to stay fixed while scrolling */

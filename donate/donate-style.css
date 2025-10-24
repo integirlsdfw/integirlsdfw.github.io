@@ -25,7 +25,7 @@ main-body {
 }
 
 .donate-hero {
-    background-image: url('https://img.freepik.com/free-vector/sunset-city-background_1092-42.jpg'); /* insert a link of your chosen image! */
+    background-image: url('/dallas.jpg'); /* insert a link of your chosen image! */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
